@@ -6,7 +6,7 @@
 > **💡 Are you using this role in production ?**
 > This project is maintained for free by **DevOps Store**.
 > Support our work (and save time) by discovering our certified Premium modules:
-> 👉 **[See our High Availability modules (Keycloak, Postgres...)](https://devops.store)**
+> 👉 **[See our High Availability modules (Keycloak, Postgres...)](https://devops.store/boutique)**
 
 <p align="center">
   <img src="ILLUSTRATION.png" alt="Docker Engine Illustration" width="400">
