@@ -1,0 +1,20 @@
+namespace: "devops_store"
+name: "docker_engine"
+version: "1.0.0"
+authors:
+  - Robin LETOURNEUR
+license:
+  - "MIT"
+
+readme: "README.md"
+
+tags:
+  - docker
+  - containers
+  - security
+  - production
+  - log-rotation 
+  - debian
+  - ubuntu
+
+repository: https://github.com/devops-store-official/ansible-collection-docker-engine

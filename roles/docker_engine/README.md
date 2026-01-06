@@ -1,6 +1,5 @@
 # Ansible Role: Advanced Docker Engine Installation and Configuration
 
-[![Ansible Galaxy](https://img.shields.io/badge/ansible--galaxy-devops__store.docker__engine-blue.svg)](https://galaxy.ansible.com/ui/repo/published/devops_store/docker-engine/)
 [![Sponsor](https://img.shields.io/badge/Support%20us-DevOps%20Store-ff69b4)](https://devops.store)
 
 > **💡 Are you using this role in production ?**
